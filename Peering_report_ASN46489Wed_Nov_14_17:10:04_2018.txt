@@ -1,0 +1,754 @@
+AS Number: 46489
+Organization name:  Twitch
+Other known aliases: Twitch, TwitchTV, Justin.tv
+Date of the report: Wed Nov 14 17:10:04 2018
+Web site: http://www.twitch.tv
+
+SUMMARY:
+AS46489, owned by Twitch, is present in 18 countries across 5 geographical regions. It advertises 30 IPv4
+and 10 IPv6 prefixes. It is present in 48 public IXes worldwide, with a total of 96 peering links and
+aggregated throughput of 3740000bps.
+
+
+================================
+================================
+Region name: North America. 
+Present in 2 countries within the region.
+Present in 2 IX(es) within the region.
+Aggregate speed within the region: 560000bps
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: CA.
+Number of IXes with  AS46489 present: 1.
+Aggregate speed in the country: 20000bps
+
+-------------------------------
+IX name: TorIX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.108.35.45
+Links IPv6 address: 2001:504:1a::35:45
+Link speed: 10000
+..............................
+Link IPv4 address: 206.108.35.51
+Links IPv6 address: 2001:504:1a::35:51
+Link speed: 10000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: US.
+Number of IXes with  AS46489 present: 15.
+Aggregate speed in the country: 540000bps
+
+-------------------------------
+IX name: Equinix Ashburn
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.126.236.193
+Links IPv6 address: 2001:504:0:2:0:4:6489:1
+Link speed: 30000
+..............................
+Link IPv4 address: 206.126.237.193
+Links IPv6 address: 2001:504:0:2:0:4:6489:2
+Link speed: 30000
+-------------------------------
+IX name: Equinix Chicago
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 208.115.136.193
+Links IPv6 address: 2001:504:0:4:0:4:6489:1
+Link speed: 20000
+..............................
+Link IPv4 address: 208.115.136.206
+Links IPv6 address: 2001:504:0:4:0:4:6489:2
+Link speed: 20000
+-------------------------------
+IX name: Equinix Dallas
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.223.118.193
+Links IPv6 address: 2001:504:0:5:0:4:6489:1
+Link speed: 10000
+..............................
+Link IPv4 address: 206.223.118.163
+Links IPv6 address: 2001:504:0:5:0:4:6489:2
+Link speed: 10000
+-------------------------------
+IX name: Equinix Los Angeles
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.223.123.47
+Links IPv6 address: 2001:504:0:3:0:4:6489:1
+Link speed: 10000
+..............................
+Link IPv4 address: 206.223.123.247
+Links IPv6 address: 2001:504:0:3:0:4:6489:2
+Link speed: 10000
+-------------------------------
+IX name: NWAX: Primary Peering VLAN
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 198.32.195.121
+Links IPv6 address: 2001:478:195::121
+Link speed: 10000
+..............................
+Link IPv4 address: 198.32.195.122
+Links IPv6 address: 2001:478:195::122
+Link speed: 10000
+-------------------------------
+IX name: Equinix Palo Alto
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 198.32.176.32
+Links IPv6 address: 2001:504:d::4:6489:2
+Link speed: 30000
+..............................
+Link IPv4 address: 198.32.176.232
+Links IPv6 address: 2001:504:d::4:6489:1
+Link speed: 30000
+-------------------------------
+IX name: Equinix New York
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 198.32.118.198
+Links IPv6 address: 2001:504:f::4:6489:1
+Link speed: 30000
+..............................
+Link IPv4 address: 198.32.118.209
+Links IPv6 address: 2001:504:f::4:6489:2
+Link speed: 30000
+-------------------------------
+IX name: SIX Seattle: MTU 1500
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.81.81.54
+Links IPv6 address: 2001:504:16::b599
+Link speed: 20000
+..............................
+Link IPv4 address: 206.81.81.55
+Links IPv6 address: 2001:504:16::311:0:b599
+Link speed: 20000
+-------------------------------
+IX name: CoreSite - Any2 California
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.72.210.165
+Links IPv6 address: 2001:504:13::210:165
+Link speed: 20000
+..............................
+Link IPv4 address: 206.72.211.48
+Links IPv6 address: 2001:504:13::211:48
+Link speed: 20000
+-------------------------------
+IX name: Equinix Miami
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 198.32.125.200
+Links IPv6 address: None
+Link speed: 10000
+..............................
+Link IPv4 address: 198.32.125.220
+Links IPv6 address: None
+Link speed: 10000
+-------------------------------
+IX name: Digital Realty Atlanta
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 198.32.132.238
+Links IPv6 address: 2001:478:132::238
+Link speed: 20000
+..............................
+Link IPv4 address: 198.32.132.239
+Links IPv6 address: 2001:478:132::239
+Link speed: 20000
+-------------------------------
+IX name: CyrusOne IX Houston
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 198.32.96.49
+Links IPv6 address: 2001:478:96::49
+Link speed: 10000
+..............................
+Link IPv4 address: 198.32.96.50
+Links IPv6 address: 2001:478:96::50
+Link speed: 10000
+-------------------------------
+IX name: FL-IX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.41.108.57
+Links IPv6 address: 2001:504:40:108::1:57
+Link speed: 20000
+..............................
+Link IPv4 address: 206.41.108.58
+Links IPv6 address: 2001:504:40:108::1:58
+Link speed: 20000
+-------------------------------
+IX name: SLIX - Salt Lake City Internet Exchange
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 204.228.158.19
+Links IPv6 address: 2607:fa18:1:f00::13
+Link speed: 10000
+..............................
+Link IPv4 address: 204.228.158.22
+Links IPv6 address: 2607:fa18:1:f00::16
+Link speed: 10000
+-------------------------------
+IX name: CoreSite - Any2 Denver 
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 206.51.46.9
+Links IPv6 address: 2605:6c00:303:303::9
+Link speed: 20000
+..............................
+Link IPv4 address: 206.51.46.19
+Links IPv6 address: 2605:6c00:303:303::19
+Link speed: 20000
+================================
+================================
+Region name: Europe. 
+Present in 10 countries within the region.
+Present in 10 IX(es) within the region.
+Aggregate speed within the region: 2060000bps
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: ES.
+Number of IXes with  AS46489 present: 3.
+Aggregate speed in the country: 60000bps
+
+-------------------------------
+IX name: ESPANIX Madrid Upper LAN
+Number of links in IX: 1
+Links details:
+..............................
+Link IPv4 address: 185.79.175.141
+Links IPv6 address: 2001:7f8:f:1::41
+Link speed: 20000
+-------------------------------
+IX name: DE-CIX Madrid: DE-CIX Madrid Peering LAN
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 185.1.68.59
+Links IPv6 address: 2001:7f8:a0::b599:0:1
+Link speed: 10000
+..............................
+Link IPv4 address: 185.1.68.60
+Links IPv6 address: 2001:7f8:a0::b599:0:2
+Link speed: 10000
+-------------------------------
+IX name: ESPANIX Madrid Lower LAN
+Number of links in IX: 1
+Links details:
+..............................
+Link IPv4 address: 193.149.1.41
+Links IPv6 address: 2001:7f8:f::41
+Link speed: 20000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: CZ.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 260000bps
+
+-------------------------------
+IX name: Peering.cz
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 91.213.211.116
+Links IPv6 address: 2001:7f8:7f::116
+Link speed: 30000
+..............................
+Link IPv4 address: 91.213.211.117
+Links IPv6 address: 2001:7f8:7f::117
+Link speed: 30000
+-------------------------------
+IX name: NIX.CZ: Public peering VLAN
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 91.210.16.67
+Links IPv6 address: 2001:7f8:14::7e:1
+Link speed: 100000
+..............................
+Link IPv4 address: 91.210.16.68
+Links IPv6 address: 2001:7f8:14::7e:2
+Link speed: 100000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: FR.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 60000bps
+
+-------------------------------
+IX name: DE-CIX Marseille: DE-CIX Marseille Peering LAN
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 185.1.47.45
+Links IPv6 address: 2001:7f8:36::b599:0:1
+Link speed: 10000
+..............................
+Link IPv4 address: 185.1.47.46
+Links IPv6 address: 2001:7f8:36::b599:0:2
+Link speed: 10000
+-------------------------------
+IX name: France-IX Paris
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 37.49.237.25
+Links IPv6 address: 2001:7f8:54::1:25
+Link speed: 20000
+..............................
+Link IPv4 address: 37.49.237.26
+Links IPv6 address: 2001:7f8:54::1:26
+Link speed: 20000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: NL.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 240000bps
+
+-------------------------------
+IX name: NL-ix: Main
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 193.239.117.158
+Links IPv6 address: 2001:7f8:13::a504:6489:1
+Link speed: 20000
+..............................
+Link IPv4 address: 193.239.117.161
+Links IPv6 address: 2001:7f8:13::a504:6489:2
+Link speed: 20000
+-------------------------------
+IX name: AMS-IX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 80.249.210.197
+Links IPv6 address: 2001:7f8:1::a504:6489:2
+Link speed: 100000
+..............................
+Link IPv4 address: 80.249.211.27
+Links IPv6 address: 2001:7f8:1::a504:6489:1
+Link speed: 100000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: GB.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 220000bps
+
+-------------------------------
+IX name: LINX LON1: Main
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 195.66.225.174
+Links IPv6 address: 2001:7f8:4::b599:1
+Link speed: 100000
+..............................
+Link IPv4 address: 195.66.225.25
+Links IPv6 address: 2001:7f8:4::b599:2
+Link speed: 100000
+-------------------------------
+IX name: LONAP: LON0
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 5.57.81.71
+Links IPv6 address: 2001:7f8:17::b599:1
+Link speed: 10000
+..............................
+Link IPv4 address: 5.57.81.72
+Links IPv6 address: 2001:7f8:17::b599:2
+Link speed: 10000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: AT.
+Number of IXes with  AS46489 present: 1.
+Aggregate speed in the country: 40000bps
+
+-------------------------------
+IX name: VIX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 193.203.0.230
+Links IPv6 address: 2001:7f8:30:0:2:1:4:6489
+Link speed: 20000
+..............................
+Link IPv4 address: 193.203.0.34
+Links IPv6 address: 2001:7f8:30:0:2:2:4:6489
+Link speed: 20000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: DE.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 600000bps
+
+-------------------------------
+IX name: BCIX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 193.178.185.106
+Links IPv6 address: 2001:7f8:19:1::b599:1
+Link speed: 100000
+..............................
+Link IPv4 address: 193.178.185.107
+Links IPv6 address: 2001:7f8:19:1::b599:2
+Link speed: 100000
+-------------------------------
+IX name: DE-CIX Frankfurt: DE-CIX Frankfurt Peering LAN
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 80.81.194.181
+Links IPv6 address: 2001:7f8::b599:0:1
+Link speed: 200000
+..............................
+Link IPv4 address: 80.81.193.81
+Links IPv6 address: 2001:7f8::b599:0:2
+Link speed: 200000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: IT.
+Number of IXes with  AS46489 present: 1.
+Aggregate speed in the country: 20000bps
+
+-------------------------------
+IX name: MIX-IT
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 217.29.67.17
+Links IPv6 address: 2001:7f8:b:100:1d1:a5d4:6489:17
+Link speed: 10000
+..............................
+Link IPv4 address: 217.29.67.18
+Links IPv6 address: 2001:7f8:b:100:1d1:a5d4:6489:18
+Link speed: 10000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: SE.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 440000bps
+
+-------------------------------
+IX name: STHIX - Stockholm: STH Peering
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 192.121.80.30
+Links IPv6 address: 2001:7f8:3e:0:a500:4:6489:1
+Link speed: 20000
+..............................
+Link IPv4 address: 192.121.80.31
+Links IPv6 address: 2001:7f8:3e:0:a500:4:6489:2
+Link speed: 20000
+-------------------------------
+IX name: Netnod Stockholm: STH-A -- MTU1500
+Number of links in IX: 4
+Links details:
+..............................
+Link IPv4 address: 194.68.123.83
+Links IPv6 address: 2001:7f8:d:ff::83
+Link speed: 100000
+..............................
+Link IPv4 address: 194.68.128.83
+Links IPv6 address: 2001:7f8:d:fe::83
+Link speed: 100000
+..............................
+Link IPv4 address: 195.245.240.83
+Links IPv6 address: 2001:7f8:d:fc::83
+Link speed: 100000
+..............................
+Link IPv4 address: 195.69.119.83
+Links IPv6 address: 2001:7f8:d:fb::83
+Link speed: 100000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: PL.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 120000bps
+
+-------------------------------
+IX name: Equinix Warsaw (PLIX)
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 195.182.218.225
+Links IPv6 address: 2001:7f8:42::a504:6489:1
+Link speed: 50000
+..............................
+Link IPv4 address: 195.182.218.245
+Links IPv6 address: 2001:7f8:42::a504:6489:2
+Link speed: 50000
+-------------------------------
+IX name: Thinx
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 212.91.0.232
+Links IPv6 address: 2001:7f8:60::4:6489:1
+Link speed: 10000
+..............................
+Link IPv4 address: 212.91.0.233
+Links IPv6 address: 2001:7f8:60::4:6489:2
+Link speed: 10000
+================================
+================================
+Region name: Australia. 
+Present in 1 countries within the region.
+Present in 1 IX(es) within the region.
+Aggregate speed within the region: 60000bps
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: AU.
+Number of IXes with  AS46489 present: 3.
+Aggregate speed in the country: 60000bps
+
+-------------------------------
+IX name: IX Australia NSW: NSW-IX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 218.100.52.157
+Links IPv6 address: 2001:7fa:11:4:0:b599:0:1
+Link speed: 10000
+..............................
+Link IPv4 address: 218.100.52.158
+Links IPv6 address: 2001:7fa:11:4:0:b599:0:2
+Link speed: 10000
+-------------------------------
+IX name: MegaIX Sydney: MegaIX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 103.26.68.137
+Links IPv6 address: 2001:dea:0:10::89
+Link speed: 10000
+..............................
+Link IPv4 address: 103.26.68.138
+Links IPv6 address: 2001:dea:0:10::8a
+Link speed: 10000
+-------------------------------
+IX name: Equinix Sydney
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 45.127.172.71
+Links IPv6 address: 2001:de8:6::4:6489:1
+Link speed: 10000
+..............................
+Link IPv4 address: 45.127.172.198
+Links IPv6 address: 2001:de8:6::4:6489:2
+Link speed: 10000
+================================
+================================
+Region name: Asia Pacific. 
+Present in 4 countries within the region.
+Present in 4 IX(es) within the region.
+Aggregate speed within the region: 260000bps
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: HK.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 80000bps
+
+-------------------------------
+IX name: HKIX: HKIX Peering LAN 1
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 123.255.90.46
+Links IPv6 address: 2001:7fa:0:1::ca28:a02e
+Link speed: 20000
+..............................
+Link IPv4 address: 123.255.90.47
+Links IPv6 address: 2001:7fa:0:1::ca28:a02f
+Link speed: 20000
+-------------------------------
+IX name: Equinix Hong Kong
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 119.27.63.118
+Links IPv6 address: 2001:de8:7::4:6489:1
+Link speed: 20000
+..............................
+Link IPv4 address: 119.27.63.119
+Links IPv6 address: 2001:de8:7::4:6489:2
+Link speed: 20000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: SG.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 40000bps
+
+-------------------------------
+IX name: MegaIX Singapore
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 103.41.12.31
+Links IPv6 address: 2001:ded::1f
+Link speed: 10000
+..............................
+Link IPv4 address: 103.41.12.32
+Links IPv6 address: 2001:ded::20
+Link speed: 10000
+-------------------------------
+IX name: Equinix Singapore
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 27.111.229.46
+Links IPv6 address: 2001:de8:4::4:6489:2
+Link speed: 10000
+..............................
+Link IPv4 address: 27.111.229.36
+Links IPv6 address: 2001:de8:4::4:6489:1
+Link speed: 10000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: JP.
+Number of IXes with  AS46489 present: 3.
+Aggregate speed in the country: 100000bps
+
+-------------------------------
+IX name: Equinix Tokyo
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 203.190.230.118
+Links IPv6 address: 2001:de8:5::4:6489:1
+Link speed: 20000
+..............................
+Link IPv4 address: 203.190.230.119
+Links IPv6 address: 2001:de8:5::4:6489:2
+Link speed: 20000
+-------------------------------
+IX name: BBIX Tokyo
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 218.100.6.112
+Links IPv6 address: 2001:de8:c::4:6489:1
+Link speed: 10000
+..............................
+Link IPv4 address: 218.100.6.113
+Links IPv6 address: 2001:de8:c::4:6489:2
+Link speed: 10000
+-------------------------------
+IX name: JPNAP Tokyo
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 210.173.176.149
+Links IPv6 address: 2001:7fa:7:1:0:4:6489:1
+Link speed: 20000
+..............................
+Link IPv4 address: 210.173.176.150
+Links IPv6 address: 2001:7fa:7:1:0:4:6489:2
+Link speed: 20000
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: KR.
+Number of IXes with  AS46489 present: 1.
+Aggregate speed in the country: 40000bps
+
+-------------------------------
+IX name: KINX
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 192.145.251.187
+Links IPv6 address: 2001:7fa:8::4a
+Link speed: 20000
+..............................
+Link IPv4 address: 192.145.251.188
+Links IPv6 address: 2001:7fa:8::4b
+Link speed: 20000
+================================
+================================
+Region name: South America. 
+Present in 1 countries within the region.
+Present in 1 IX(es) within the region.
+Aggregate speed within the region: 800000bps
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Country: BR.
+Number of IXes with  AS46489 present: 2.
+Aggregate speed in the country: 800000bps
+
+-------------------------------
+IX name: IX.br (PTT.br) Rio de Janeiro
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 45.6.53.9
+Links IPv6 address: 2001:12f8:0:2::53:9
+Link speed: 100000
+..............................
+Link IPv4 address: 45.6.53.10
+Links IPv6 address: 2001:12f8:0:2::53:10
+Link speed: 100000
+-------------------------------
+IX name: IX.br (PTT.br) So Paulo
+Number of links in IX: 2
+Links details:
+..............................
+Link IPv4 address: 187.16.221.244
+Links IPv6 address: 2001:12f8::221:244
+Link speed: 300000
+..............................
+Link IPv4 address: 187.16.221.243
+Links IPv6 address: 2001:12f8::221:243
+Link speed: 300000
